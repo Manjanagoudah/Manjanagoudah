@@ -6,7 +6,7 @@
 
   💬 Ask me about **Java,SQL,HTML,CSS,Javascript,React.Js**
 
-  📫 How to reach me **manjanagoudah@gn**
+  📫 How to reach me **manjanagoudah@gmail.com**
 
   📄 Resume [https://drive.google.com/file/d/1ucY3TrmpxTFcOfVJ1iOiEzvMVpd5M_oX/view?usp=drivesdk]  
   
