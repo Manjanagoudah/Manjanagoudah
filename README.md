@@ -1,18 +1,16 @@
 [![MasterHead](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-19-1024x256.png)
 <h1 align="center">Hi 👋, I'm Manjanagouda Halemani</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"<h1 align="center">Hi 👋, I'm Manjanagouda Halemani</h1>
-<h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **React.Js,DSA**
+  🌱 I’m currently learning **React.Js,DSA**
 
-- 💬 Ask me about **Java,SQL,HTML,CSS,Javascript,React.Js**
+  💬 Ask me about **Java,SQL,HTML,CSS,Javascript,React.Js**
 
-- 📫 How to reach me **manjanagoudah@gn**
+  📫 How to reach me **manjanagoudah@gn**
 
-- 📄 Resume [https://drive.google.com/file/d/1ucY3TrmpxTFcOfVJ1iOiEzvMVpd5M_oX/view?usp=drivesdk](https://drive.google.com/file/d/1ucY3TrmpxTFcOfVJ1iOiEzvMVpd5M_oX/view?usp=drivesdk)
-
-- ⚡ Fun fact **I think I am funny**
+  📄 Resume [https://drive.google.com/file/d/1ucY3TrmpxTFcOfVJ1iOiEzvMVpd5M_oX/view?usp=drivesdk]  
+  
+  ⚡ Fun fact **I think I am straight forword :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
