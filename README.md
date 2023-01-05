@@ -1,6 +1,11 @@
 [![MasterHead](https://blog.paper.li/wp-content/uploads/2020/02/LinkedIn-banner-19-1024x256.png)
 <h1 align="center">Hi 👋, I'm Manjanagouda Halemani</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<h4>
+                                                                       Hello! 
+My name is Manjanagouda Halemani.I've always been interested in software development, and I've spent the last few years fine-tuning my skills and expanding my knowledge and confidence.I'm currently looking for great opportunities to put those skills to use and learn more about technology</h4>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+
 
   🌱 I’m currently learning **React.Js,DSA**
 
